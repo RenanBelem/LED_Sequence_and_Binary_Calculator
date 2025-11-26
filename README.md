@@ -54,7 +54,7 @@ Onde:
 * $I = 20mA = 0.020A$
 * $V_{LED}$ varia conforme a cor.
 
-| Cor do LED | $V_{LED}$ (Tensão Nominal) [cite: 8, 9, 10, 11, 12] | Cálculo ($R$) |
+| Cor do LED | $V_{LED}$ (Tensão Nominal)  | Cálculo ($R$) |
 | :--- | :--- | :--- |
 | Vermelho | $\sim 2.0V$  | $R = (5V - 2.0V) / 0.020A = 150 \Omega$ |
 | Amarelo | $\sim 2.2V$  | $R = (5V - 2.2V) / 0.020A = 140 \Omega$ |
